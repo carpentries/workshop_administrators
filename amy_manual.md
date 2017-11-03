@@ -6,7 +6,9 @@
 
 * View existing events
 
-* Create a new event
+* Enter in a completely new event
+* Create event based on workshop request
+* Merge a new event record into an existing record
 
 * Create a new person
 
