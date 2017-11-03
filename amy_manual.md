@@ -1,6 +1,6 @@
 ### How to use AMY, the Carpentries' internal database
 
-* Log in to AMY [here](amy.software-carpentry.org/workshops/admin-dashboard/).  Contact Carpentries staff if you need login credentials.
+* Log in to AMY [here](https://amy.software-carpentry.org/workshops/admin-dashboard/).  Contact Carpentries staff if you need login credentials.
 
 ![AMY login screen goes here](images/amy_login_screen.png)
 
