@@ -2,6 +2,8 @@
 
 * Log in to AMY [here](amy.software-carpentry.org/workshops/admin-dashboard/).  Contact Carpentries staff if you need login credentials.
 
+![AMY login screen goes here](images/amy_login_screen.png)
+
 * The dashboard view will show....
 
 * View existing events
