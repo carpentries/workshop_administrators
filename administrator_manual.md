@@ -26,7 +26,7 @@ Refer them to more information
 * Set up registration page if needed.  See [Eventbrite instructions](#).
 * Set up surveys and share survey results links.  See [Survey Monkey instructions](#).
 * Check with hosts and instructors in weeks leading to workshop to be sure they are ready. Exactly how far in advance and how often to check in is at administrator's discretion, depending on needs of site.
-* Refer to Carpentries Program Manager if invoice will be needed. [Overview ofinvoicing procedure](#)
+* Refer to Carpentries Program Manager if invoice will be needed. [Overview of invoicing procedure](#)
 
 #### Informing us about a self organized workshop
 * Ask them for the URL for the github website 
