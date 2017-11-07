@@ -11,11 +11,21 @@ Workshop request comes to us via AMY form
 * can use "import from url" if you already have the github page
 * Add new organization if needed
 
+Be sure we are slugs (ids) are formatted consistently
+* YYYY-MM-DD-site_name
+* Be sure our id matches id used in github page and ids used anywhere else *exactly*
+* Fill in XX if dates are not known; change this once dates are confirmed
 
-!IMPORTANT: consistnency in formatting slugs
-YYYY-MM-DD-site_name
-Be sure our slug matches slug used in github page *exactly*
+Host name
+* Select host site from drop down menu
+* Create new [host entry]() if not in the database
 
-Go to "tasks" tab
-Enter in instructors, helpers, hosts, and organizers
+
+
+Once instructors are confirmed
+* Go to "Tasks" tab and enter in instructors, helpers, hosts, and organizers
+* Create person profiles for any names not in the database
+* Use the [bulk add persons](#) feature if necessary.
+
+
 
