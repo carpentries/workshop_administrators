@@ -1,6 +1,6 @@
 Beginning of workshop administrators manual.  Original [Google Doc here](https://docs.google.com/document/d/1TY_AeJFzAe2UCNFTOu9hK3jfOqq3mD-x1RAYCkohDtQ/edit).
 
-### An inquiry comes in about holding a Carpentries workshop. This could be about:
+## Workshop administrators are responsible for handling all inquiries about Carpentries workshops in their regions.  This can include:
 
 #### Asking about Carpentries workshops in general
 Refer them to more information
@@ -39,6 +39,10 @@ Refer them to more information
 * Email hosts and instructors to ask how everything went. [Message template](#)
 * Record learners in [AMY](#) and [GitHub](#).
 
+## Workshop Administrators are also responsible for generally supporting and promoting the work of the Carpentries in their regions.  This can include:
+
+#### Supporting communication efforts through channels like [Slack](#), [Twitter](#), [Mailing Lists](#), ....
+#### Other....
 
 
 
