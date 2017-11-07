@@ -9,3 +9,8 @@ All workshops have a standard fee of US$2500, plus any costs for instructor trav
 You can read more about the costs and how to request a workshop here for Software Carpentry (https://software-carpentry.org/workshops/request/) and here for Data Carpentry (http://www.datacarpentry.org/workshops-host/).
 
 Workshops are offered on demand, not on a set schedule, and typically require 2-3 months lead time to plan.
+
+
+### What's the difference between a self organized and a centrally organized workshop?
+
+### How do instructors get placed at workshops?
