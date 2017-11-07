@@ -19,7 +19,7 @@ Refer them to more information
     * What else do they need to know about how we run things?
 * Recruit instructors using appropriate tab [google spreadsheet](#) for your region
 * Place instructors based on availability, geography, domain, experience with Carpentries. See [guidelines](#).
-* Be sure instructors create workshop website with correct slug.
+* Be sure instructors create [workshop website](#) with correct slug.
 * Invite instructors to [discussion session](#)
 * Enter instructor names in AMY.
 * Send introductory email to hosts and instructors.  See [template](#)
