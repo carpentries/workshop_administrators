@@ -29,6 +29,7 @@ Refer them to more information
 * Refer to Carpentries Program Manager if invoice will be needed. [Overview of invoicing procedure](#)
 
 #### Informing us about a self organized workshop
+* Remind them of the [rules for self organized workshops](#) if necessary
 * Ask them for the URL for the github website 
 * Be sure the id is formatted correctly
 * Use github URL to to create a [new event](link to manual) in AMY.
