@@ -1,8 +1,8 @@
 Beginning of workshop administrators manual.  Original [Google Doc here](https://docs.google.com/document/d/1TY_AeJFzAe2UCNFTOu9hK3jfOqq3mD-x1RAYCkohDtQ/edit).
 
-## Workshop administrators are responsible for handling all inquiries about Carpentries workshops in their regions.  This can include:
+## Workshop administrators are responsible for handling all inquiries about Carpentries workshops in their regions. A job description can be found [here](#). This can include:
 
-#### Asking about Carpentries workshops in general
+#### Asking about Carpentries workshops in general (section under development)
 Refer them to more information
 * websites
 * FAQs
