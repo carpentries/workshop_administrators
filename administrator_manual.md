@@ -38,7 +38,7 @@ Refer them to more information
 
 ### After every workshop
 * Email hosts and instructors to ask how everything went. [Message template](#)
-* Record learners in [AMY](#) and [GitHub](#).
+* Record learners in [AMY](#) and [GitHub](#).  This includes head counts and learner names/emails if available.
 
 ## Workshop Administrators are also responsible for generally supporting and promoting the work of the Carpentries in their regions.  This can include:
 
