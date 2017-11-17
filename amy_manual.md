@@ -42,7 +42,7 @@ Select "New person" and enter in as much information as possible.  At minimum a 
 
 #### Adding bulk records
 
-If the person has a role associated with a specific event, `Person` records can also be added in bulk using the `Bulk add persons` menu option.
+If the person has a role associated with a specific event, `Person` records can also be added in bulk using the `Bulk add persons` menu option in the regular `+` menu or the `More` menu.
 
 ![AMY bulk add person menu](images/amy_bulk_add_person_menu.png)
 
