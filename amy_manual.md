@@ -61,16 +61,111 @@ Enter in the airport's IATA code, full name, country, and latitude and longitude
 ![AMY add airport](images/amy_add_airport.png)
 
 
+### Adding a new event
+
+New events can be created one of several ways:
+* By manually entering all information on the [new event page](#)
+* By importing from URL on the [new event page](#)
+* By accepting a [workshop request](#)
+
+#### Creating a new event manually
+
+* Create the workshop slug.  This must be in the form `YYYY-MM-DD-sitename` (for example, `2018-01-01-hawkins`.  The same slug should be used for the workshop's github page and any other place the workshop is identified.  If the exact date is not known, `XX` can replace the month and/or day (for example, `2018-01-xx-starfleet`).  
+
+![AMY new event slug](images/amy_new_event_slug.png)
+
+* If known, enter in the workshop dates.  
+
+![AMY new event dates](images/amy_new_event_dates.png)
+
+
+* Select the host site name from the drop down menu. If the host site does not appear on the list, [create a new organization](#).
+
+![AMY new event host](images/amy_new_event_host.png)
+
+* Select the administrator from the drop down menu.  This will almost always be `Software Carpentry`, `Data Carpentry`, or `self organized`.
+
+![AMY new event administrator](images/amy_new_event_administrator.png)
+
+* Select the name of the Carpentries administrator responsible for managing this workshop.  
+
+![AMY new event assigned to](images/amy_new_event_assigned_to.png)
+
+* Assign all appropriate tags to the event.
+
+![AMY new event tags](images/amy_new_event_tags.png)
+
+* Enter in the workshop's url (to the github page, not the repo). This is generally in the format `username.github.io/YYYY-MM-DD-sitename`.
+
+![AMY new event url](images/amy_new_event_url.png)
+
+* Enter in the human language the workshop is taught in. This is especially important for the Carpentries to track workshops in languages other than English.
+
+![AMY new event language](images/amy_new_event_language.png)
+
+* If the workshop is using **Carpentries** Eventbrite for registration, enter the Eventbrite key.  This is not need if the host site is using their own Eventbrite account or any other internal system.
+
+![AMY new event eventbrite](images/amy_new_event_eventbritekey.png)
+
+* If the event has a fee due to Carpentries, enter it in and note when the invoice has been requested to be sent to the host site.  If there is no fee due, note the reason why.
+
+![AMY new event invoice](images/amy_new_event_invoice.png)
+
+* After the event is over, record the total number of learners who attended the workshop.
+
+![AMY new event attendance](images/amy_new_event_attendance.png)
+
+* Enter the email address only of the main contact person for this event.
+![AMY new event contact](images/amy_new_event_contact.png)
+
+* Add in any othern notes that may not be covered in any fields above.
+![AMY new event notes](images/amy_new_event_location.png)
+
+* Add in the location including the country, venue name, address, and latitude/longitude coordinates.
+![AMY new event location](images/amy_new_event_location.png)
 
 
 
 
 
 
-==================
-==================
-==================
-==================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Creating a new event from URL
+
+Instructions go here
+
+#### Creating a new event from a workshop request
+
+Instructions go here
+
+
+
+
+
+====================================
+====================================
 ==================
 
 
