@@ -19,6 +19,15 @@ From here you can also add new persons, events, organizations, or airports to th
 
 ![AMY add new elements](images/amy_add_new.png)
 
+Adding a new organization
+
+If the site name is not already in AMY, add a new one by selecting "New Organization." Do not enter `http://` or any slashes in the domain name.
+
+![AMY add new organization](images/amy_new_organization.png)
+
+
+
+
 
 
 
