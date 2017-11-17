@@ -1,8 +1,12 @@
-### How to use AMY, the Carpentries' internal database
+## AMY: the Carpentries' internal database
+
+### Logging in
 
 * Log in to AMY [here](https://amy.software-carpentry.org/workshops/admin-dashboard/).  Contact Carpentries staff if you need login credentials.
 
 ![AMY login screen goes here](images/amy_login_screen.png)
+
+### AMY dashboard
 
 All the menus and a search bar are displayed across the top. The main page has three column view showing published workshops, uninvoiced workshops, and unpublished workshops.
 
@@ -19,7 +23,7 @@ From here you can also add new persons, events, organizations, or airports to th
 
 ![AMY add new elements](images/amy_add_new.png)
 
-Adding a new organization
+### Adding a new organization
 
 If the site name is not already in AMY, add a new one by selecting "New Organization." Do not enter `http://` or any slashes in the domain name.
 
