@@ -36,7 +36,7 @@ If a person's record does not exist in the database, it can be added individuall
 
 #### Adding an individual record
 
-Select "New person" and enter in as much information as possible.  At minimum a personal name is required.
+Select "New person" and enter in as much information as possible.  At minimum a personal name is required.  If the airport is not listed, it will need to be [added in](#adding-a-new-airport).
 
 ![AMY add new person](images/amy_new_person.png)
 
@@ -52,11 +52,27 @@ The role must exactly match the instructions. The event slug must exactly match 
 
 This will take you to a screen where you can verify each record, correct any errors, and submit them for bulk upload.
 
+### Adding a new airport
+
+Airports are used as approximate geographic identifiers for our instructors.  Each airport is identified by its three digit IATA code which can be looked up using the link in AMY.
+
+Enter in the airport's IATA code, full name, country, and latitude and longitude.
+
+![AMY add airport](images/amy_add_airport.png)
+
+
+
+
 
 
 
 
 ==================
+==================
+==================
+==================
+==================
+
 
 
 * View existing events
