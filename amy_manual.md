@@ -30,12 +30,33 @@ If the site name is not already in AMY, add a new one by selecting "New Organiza
 ![AMY add new organization](images/amy_new_organization.png)
 
 
+### Adding a new person
+
+If a person's record does not exist in the database, it can be added individually or as part of a bulk upload.
+
+#### Adding an individual record
+
+Select "New person" and enter in as much information as possible.  At minimum a personal name is required.
+
+![AMY add new person](images/amy_new_person.png)
+
+#### Adding bulk records
+
+If the person has a role associated with a specific event, `Person` records can also be added in bulk using the `Bulk add persons` menu option.
+
+![AMY bulk add person menu](images/amy_bulk_add_person_menu.png)
+
+Use the blank template to generate a well formed csv noting each person's personal name, family name, email address, role, and associated event.
+
+The role must exactly match the instructions. The event slug must exactly match the slug for the event recorded in AMY.
+
+This will take you to a screen where you can verify each record, correct any errors, and submit them for bulk upload.
 
 
 
 
 
-
+==================
 
 
 * View existing events
