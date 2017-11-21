@@ -43,6 +43,7 @@ Refer them to more information
 ## Workshop Administrators are also responsible for generally supporting and promoting the work of the Carpentries in their regions.  This can include:
 
 #### Supporting communication efforts through channels like [Slack](https://swcarpentry.slack.com/), [Twitter](#), [Mailing Lists](#), ....
+#### Promoting special events like Carpentries elections, CarpentryCon, etc.
 #### Other....
 
 
