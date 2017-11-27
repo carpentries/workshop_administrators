@@ -1,0 +1,16 @@
+Hi %hosts_and_instructor_names%,
+
+I'm checking in to see how your workshop went. At minimum we need a head count - ideally separated out by number registered and number attended each day. You can also share names/emails of learners if you collected them. It would also be great to hear any success stories, challenges, or anything else you want to share to help us continue to develop our programs.
+
+Please also be sure your learners complete our post-workshop survey, if they haven't already.
+
+We are also holding weekly instructor discussion sessions where you can share your feedback and hear from other instructors. Check out the calendar here (http://pad.software-carpentry.org/instructor-discussion). Please check your timezone and join us.
+
+Lastly, we always welcome guest posts to our blogs (http://software-carpentry.org/blog and http://www.datacarpentry.org/blog/) from our instructors and workshop hosts. Please let me know if you'd like to contribute.
+
+Feel free to reply all or email me back directly.
+
+Any questions for me please let me know.  Thanks for all your hard work running this workshop!
+
+
+
