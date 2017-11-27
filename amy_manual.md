@@ -181,7 +181,11 @@ See [section above](#).
 
 ### Other tasks
 
-#### Merging duplicate persons
-#### Merging duplicate events
+#### Merging duplicate persons or events
+
+If duplicate person or event records exists, they can be merged.  Select "Merge persons" or "Merge events" from the "More" menu. 
+
+Choose the two Persons or Events to be merged, and click "Submit" to see merge options.  Here you can choose to keep the value from Person/Event A, from Person/Event B, or to combine the values.
+
 #### Searching
 
