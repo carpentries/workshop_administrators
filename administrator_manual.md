@@ -21,7 +21,7 @@ Refer them to more information
 * Place instructors based on availability, geography, domain, experience with Carpentries. See [guidelines](#).
 * Be sure instructors create [workshop website](#) with correct slug.
 * Enter instructor names in AMY.
-* Send introductory email to hosts and instructors.  See [template](#)
+* Send introductory email to hosts and instructors.  See [template](email_templates/intro_email.txt)
 * Set up registration page if needed.  See [Eventbrite instructions](https://docs.google.com/document/d/1oFjTGpbg-ZEvkFZZ_DbpvRwLLrpsY-aWRiNpbwBGomk/edit).
 * Set up surveys and share survey results links.  See [Survey Monkey instructions](https://docs.google.com/document/d/1K3X6lZqhJuRdc7sOj7InT7eNUTIUhGkgY3gvJJIHvrI/).
 * Check with hosts and instructors in weeks leading to workshop to be sure they are ready. Exactly how far in advance and how often to check in is at administrator's discretion, depending on needs of site.
@@ -33,11 +33,11 @@ Refer them to more information
 * Be sure the id is formatted correctly
 * Use github URL to to create a [new event](#) in AMY.
 * Set up surveys and share survey results links.  See [Survey Monkey instructions](https://docs.google.com/document/d/1K3X6lZqhJuRdc7sOj7InT7eNUTIUhGkgY3gvJJIHvrI/).
-* Invite instructors to [discussion session](#)
+* Invite instructors to [discussion session](http://pad.software-carpentry.org/instructor-discussion)
 
 
 ### After every workshop
-* Email hosts and instructors to ask how everything went. [Message template](#)
+* Email hosts and instructors to ask how everything went. [Message template](email_templates/closing_email.txt)
 * Record learners in [AMY](#) and [GitHub](#).  This includes head counts and learner names/emails if available.
 
 ## Workshop Administrators are also responsible for generally supporting and promoting the work of the Carpentries in their regions.  This can include:
