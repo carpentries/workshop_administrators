@@ -127,7 +127,15 @@ New events can be created one of several ways:
 
 #### Creating a new event from URL
 
-Instructions go here
+If you already have the event's URL with properly formatted metadata, the following information can automatically be imported in:
+
+* Slug (created from github repo name)
+* Start and end dates
+* Location details
+
+Instructor and helper names will be in the notes field but not assigned in the database.  All people will need to be [assigned to the event](#).
+
+All other information will need to be entered in as above.
 
 #### Creating a new event from a workshop request
 
