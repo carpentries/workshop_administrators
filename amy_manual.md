@@ -139,7 +139,19 @@ All other information will need to be entered in as above.
 
 #### Creating a new event from a workshop request
 
-Instructions go here
+A workshop can be requested from a host site, and this information can be used to create an event in AMY.  Select "Workshop requests" from the "Requests" menu.
+
+![AMY workshop requests](images/amy_workshop_request_menu.png)
+
+This page will show a list of all open workshop requests, with the name/email of the requestor, their affiliation, their preferred dates, the Carpentry type, and any other comments.  Click on the "i" icon at the end of the line to view more details.
+
+![AMY workshop request list](images/amy_workshop_request_list.png)
+
+This will give the user the option to accept or discard the request.  All requests should be accepted (unless spam or otherwise inappropriate) so the Carpentries can maintain a historry of workshop requests.  Events can later be marked as stalled or cancelled.
+
+This will open a page with a side by side view of the request details and view to create a new event.  The new event can be created manually or if available, from the URL, as described above.
+
+![AMY workshop accept request](images/amy_workshop_request_accept.png)
 
 
 ### Assigning people to events
