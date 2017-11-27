@@ -156,7 +156,28 @@ This will open a page with a side by side view of the request details and view t
 
 ### Assigning people to events
 
-Instructions go here
+Regardless of how events are created, adding the people associated with each event can not easily be automated.  [Name matching is hard](http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/).
+
+People can be associated with events one by one or as a bulk upload.
+
+#### Assigning people to events one by one
+
+Go to the event page and click the "Edit" button at the top of the page.  Select the "Tasks" tab.  (Note the sponsor tab is not currently being used.)
+
+To add a new person to the event, start typing the person's name in the "Person" field.  Auto-completed suggested names will appear.
+
+Add the person's role in the event (Helper, Instructor, Workshop Host, Learner, Workshop Organizer).  "Contributed to Lesson Materials" is not used in this context.  "Title" and "URL" are also not used in this context.
+
+If a person's name does not appear in the dropdown, they may need to be [added to the database](#).
+
+Below this form, a list of all people assigned to this event is displayed.  A person's role can not be directly changed. Instead, delete the item and enter a new one.
+
+When done, go back to the "Event" tab at the top of the page, and click "Submit" at the bottom of the event page to save changes. All people should now appear at the bottom of the Event page.
+
+#### Assigning people to events in bulk
+
+See [section above](#).
+
 
 ### Other tasks
 
