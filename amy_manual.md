@@ -196,7 +196,10 @@ The quickiest and easiest way to to search is using the search box in the top me
 * `stanford` will match any one with a `stanford` email address, with `stanford` in their name, any workshops with `stanford` in the slug, the site `Stanford University` and any records with `stanford` in the notes.
 
 
+#### Roles in AMY
+What you are able to edit or view depends on your assigned role in AMY.
 
+(List of role types and descriptions goes here)
 
 
 
